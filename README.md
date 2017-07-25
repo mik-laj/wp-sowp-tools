@@ -2,7 +2,6 @@
 
 Wtyczka zapewnia dodatkowe funkcjonalności na stronach Siec Obywatelskiej Watchdog Polska.
 
-
 # Funkcjonalności
 
 * Obsługa górnego paska
@@ -16,3 +15,8 @@ if ( function_exists( 'sowp_topbar' ) ) {
 }
 ````
 Wtyczka zapewnia synchronizacja stanu paska pobierając aktualny pasek z serwerów Stowaryszenia. 
+
+
+# Aktualzacje.
+
+W celu zapewnieniu aktualizacji zalecane jest wykorzystnaie wtyczki [GitHub Updater](https://github.com/afragen/github-updater)
